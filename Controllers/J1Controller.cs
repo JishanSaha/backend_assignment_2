@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-//jishan
+
 namespace WebApplication1.Controllers
 {
     [Route("api/[controller]")]
